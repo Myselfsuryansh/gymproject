@@ -1,0 +1,44 @@
+{
+  "enquiry": [
+    {
+      "firstName": "hello",
+      "lastName": "world",
+      "email": "helloworld@yopmail.com",
+      "mobile": "890756542",
+      "weight": 83,
+      "height": 5.12,
+      "bmi": 3.16619873046875,
+      "bmiResult": "UnderWeight",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Monthly",
+      "important": [
+        "Building Lean Muscle"
+      ],
+      "enquiryDate": "2023-09-18T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "Surynsh",
+      "lastName": "Sinha",
+      "email": "suryanshsinhabth11@yopmail.com",
+      "mobile": "7992389626",
+      "weight": 83,
+      "height": 6,
+      "bmi": 2.3055555555555554,
+      "bmiResult": "UnderWeight",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Monthly",
+      "important": [
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Sugar Craving Body",
+        "Fitness"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-09-16T18:30:00.000Z",
+      "id": 2
+    }
+  ]
+}
